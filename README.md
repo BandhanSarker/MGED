@@ -4,7 +4,7 @@
 
 This repository contains a curated collection of published microarray gene expression datasets used in support of our research article titled: "[An Integrated Approach for Key Gene Selection and Cancer Phenotype Classification: Improving Diagnosis and Prediction](https://doi.org/10.1016/j.compbiomed.2025.110687)" 
 
-This article has been accepted for publication in the journal [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) 
+This article has been published in the journal [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) 
 
 All datasets have been analyzed using the [HMCC](https://github.com/BandhanSarker/HMCC) R package as part of our research workflow.
 
